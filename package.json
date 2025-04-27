@@ -15,11 +15,20 @@
     "@nuxt/fonts": "0.11.0",
     "@nuxt/image": "1.10.0",
     "@nuxt/scripts": "0.11.5",
+    "@primeuix/themes": "^1.0.0",
+    "@primevue/forms": "^4.3.3",
+    "@tailwindcss/vite": "^4.0.17",
     "@unhead/vue": "^2.0.0-rc.8",
     "eslint": "^9.0.0",
     "nuxt": "^3.16.1",
+    "primevue": "^4.3.3",
+    "tailwindcss": "^4.0.17",
+    "tailwindcss-primeui": "^0.6.1",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
-  "packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0"
+  "packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0",
+  "devDependencies": {
+    "@primevue/nuxt-module": "^4.3.3"
+  }
 }
